@@ -1,7 +1,9 @@
 theme: jekyll-theme-slate
-title: Mads
-description: website
 
 
 github:
   is_project_page: false
+
+
+title: Mads
+description: website
