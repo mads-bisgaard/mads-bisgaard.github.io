@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 
 github:
   is_project_page: false
+  zip_url: http://google.com
