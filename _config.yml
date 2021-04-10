@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 
 
 github:
-  is_project_page: false
+  is_project_page: nil
 
 
 title: Mads
