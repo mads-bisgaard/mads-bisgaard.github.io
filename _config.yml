@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 show_downloads: false
 
 
-title: Mads
-description: website
+title: Mads Bisgaard
+description: Personal website
 
 github:
   is_user_page: false
