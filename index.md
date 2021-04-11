@@ -1,4 +1,4 @@
-## Welcome to Mads Bisgaards' website
+## Welcome to my website
 
 My name is You can use the [editor on GitHub](https://github.com/mads-bisgaard/mads-bisgaard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
