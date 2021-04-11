@@ -8,23 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 In a former life I worked in symplectic topology. That's a field within pure mathematics which studies the geometry of Hamiltonian systems (think of the celestial mechanics). During my PhD I managed to produce the following papers.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Mather theory and symplectic rigidity. [Journal of Modern Dynamics 15 (2019), 165-207](https://www.aimsciences.org/article/doi/10.3934/jmd.2019018)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
