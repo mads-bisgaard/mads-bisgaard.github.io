@@ -4,9 +4,9 @@ My name is You can use the [editor on GitHub](https://github.com/mads-bisgaard/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Mathematics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In a former life I worked in symplectic topology. That's a field within pure mathematics which studies the geometry of Hamiltonian systems (think of the celestial mechanics). During my PhD I managed to produce the following papers.
 
 ```markdown
 Syntax highlighted code block
