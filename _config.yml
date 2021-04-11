@@ -3,7 +3,7 @@ show_downloads: false
 logo: photo2.jpeg
 
 title: Mads Bisgaard
-description: Personal website
+description: This is my personal (non-professional) website
 
 github:
   is_user_page: false
