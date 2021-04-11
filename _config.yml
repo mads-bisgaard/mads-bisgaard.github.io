@@ -4,3 +4,7 @@ show_downloads: false
 
 title: Mads
 description: website
+
+github:
+  is_user_page: false
+  is_project_page: false
