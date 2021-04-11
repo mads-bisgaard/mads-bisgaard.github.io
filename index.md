@@ -11,5 +11,5 @@ In a former life I worked in symplectic topology. That's a field within pure mat
 - [A distance expanding flow on exact Lagrangian cobordism classes.](https://arxiv.org/abs/1608.05821)
 - Invariants of Lagrangian cobordisms via spectral numbers. [Journal of Topology and Analysis Vol 11, No. 01, 2019](https://www.worldscientific.com/doi/abs/10.1142/S1793525319500092)
 
-Preprints of all of these are also available through the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bisgaard%2C+M+R).
+For this work I was awarded the [ETH medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html). Preprints of all of these papers are also available through the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bisgaard%2C+M+R).
 
