@@ -17,6 +17,11 @@ In a former life I worked in symplectic topology. That's a field within pure mat
 
 For this work I was awarded the [ETH medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) in 2019. Preprints of all of these papers are also available through the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bisgaard%2C+M+R).
 
+Related to the first paper above I gave the following talks at a MSRI summer program:
+
+- [An introduction to Aubry Mather theory](http://www.msri.org/summer_schools/825/schedules/24331)
+- [Symplectic Mather theory](http://www.msri.org/summer_schools/825/schedules/24314)
+
 
 ### Miscellaneous
 
