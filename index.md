@@ -8,7 +8,7 @@ Generally, I am very interested in dynamics and how one can develop software too
 
 ### Pure mathematics
 
-In a former life I worked in symplectic topology. That's a field within pure mathematics which studies the geometry of Hamiltonian systems (think of celestial mechanics). During my PhD I published the following papers.
+In a previous life I worked in symplectic topology. That's a field within pure mathematics which studies the geometry of Hamiltonian systems (think of celestial mechanics). During my PhD I published the following papers.
 
 - Mather theory and symplectic rigidity. [Journal of Modern Dynamics 15 (2019), 165-207](https://www.aimsciences.org/article/doi/10.3934/jmd.2019018)
 - Topology of (small) Lagrangian cobordisms. [Algebraic & Geometric Topology 19-2 (2019), 701-742](https://msp.org/agt/2019/19-2/p03.xhtml)
