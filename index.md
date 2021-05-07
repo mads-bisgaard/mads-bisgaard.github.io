@@ -15,12 +15,7 @@ In a former life I worked in symplectic topology. That's a field within pure mat
 - [A distance expanding flow on exact Lagrangian cobordism classes.](https://arxiv.org/abs/1608.05821)
 - Invariants of Lagrangian cobordisms via spectral numbers. [Journal of Topology and Analysis Vol 11, No. 01, 2019](https://www.worldscientific.com/doi/abs/10.1142/S1793525319500092)
 
-For this work I was awarded the [ETH medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) in 2019. Preprints of all of these papers are also available through the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bisgaard%2C+M+R).
-
-Related to the first paper above I gave the following talks at a MSRI summer program:
-
-- [An introduction to Aubry Mather theory](http://www.msri.org/summer_schools/825/schedules/24331)
-- [Symplectic Mather theory](http://www.msri.org/summer_schools/825/schedules/24314)
+For this work I was awarded the [ETH medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) in 2019. Preprints of all of these papers are also available through the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bisgaard%2C+M+R). Related to an MSRI summer program I gave a talk on [An introduction to Aubry Mather theory](http://www.msri.org/summer_schools/825/schedules/24331) as well as one on [Symplectic Mather theory](http://www.msri.org/summer_schools/825/schedules/24314).
 
 
 ### Miscellaneous
