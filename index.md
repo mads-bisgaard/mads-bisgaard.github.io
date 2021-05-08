@@ -18,10 +18,6 @@ In a previous life I worked in symplectic topology. That's a field within pure m
 For this work I was awarded the [ETH medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) in 2019. Preprints of all of these papers are also available through the [arXiv](https://arxiv.org/search/?searchtype=author&query=Bisgaard%2C+M+R). Related to an MSRI summer program I gave a talk on [an introduction to Aubry Mather theory](http://www.msri.org/summer_schools/825/schedules/24331) as well as one on [symplectic Mather theory](http://www.msri.org/summer_schools/825/schedules/24314).
 
 
-### Miscellaneous
-
-- Some day I believe I will have something which should go here. :)
-
 ### Contact
 
 My email address is madsbisgaard88(at)hotmail(dot)com 
