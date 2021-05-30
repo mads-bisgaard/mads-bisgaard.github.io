@@ -6,7 +6,7 @@ I have many interests and the plan is for this website to be a place where I can
 
 Generally, I am very interested in dynamics and how one can develop software tools to interact with real-world dynamical systems. That is something which used to be an academic dicipline but which is moving more and more into industry. I think that's a great thing!
 
-### Optimization, Constrol and Statistics
+### Optimization, Control and Statistics
 
 Working in optimization and real-time control, one of the things I am very interested in is how to ensure/verify/certify that a control algorithm is safe to deploy. I have been thinking a lot about this topic and recently put the following paper on the arXiv
 
