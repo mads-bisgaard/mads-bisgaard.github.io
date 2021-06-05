@@ -1,3 +1,5 @@
+## Research
+
 ### Numerical Optimization, Control and Statistics
 
 Working in numerical optimization and real-time control, one of the things I am very interested in is how to ensure/verify/certify that a control algorithm is safe to deploy. I have been thinking a lot about this topic and recently put the following paper on the arXiv:

@@ -4,9 +4,9 @@ Since September 2019 I'm an optimization software developer at [Embotech AG](htt
 
 I have many interests and the plan is for this website to be a place where I can share what I am doing. Generally, I am very interested in dynamics and how one can develop software tools to interact with real-world dynamical systems. That is something which used to be an academic dicipline but which is moving more and more into industry. I think that's a great thing!
 
-#### Content
+### Content
 
-    [research](https://mads-bisgaard.github.io/research)
+[research](https://mads-bisgaard.github.io/research)
 
 ### Contact
 
