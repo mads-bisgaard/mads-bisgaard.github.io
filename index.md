@@ -6,7 +6,7 @@ I have many interests and the plan is for this website to be a place where I can
 
 ### Content
 
-[research](https://mads-bisgaard.github.io/research)
+1. [Research](https://mads-bisgaard.github.io/research)
 
 ### Contact
 
