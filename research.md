@@ -1,8 +1,10 @@
 ## Research
 
+I don't currently work in research but from time to time I get interested in a project and write a paper about it. Those papers will appear below.
+
 ### Numerical Optimization, Control and Statistics
 
-Working in numerical optimization and real-time control, one of the things I am very interested in is how to ensure/verify/certify that a control algorithm is safe to deploy. I have been thinking a lot about this topic and recently put the following paper on the arXiv:
+I currently work in numerical optimization and real-time control, so one of the things I am very interested in is how to ensure/verify/certify that a control algorithm is safe to deploy. I have been thinking a lot about this topic and recently put the following paper on the arXiv:
 
 - (joint with A. Domahidi). A risk analysis framework for real-time control systems. [arXiv preprint](https://arxiv.org/abs/2105.12225)
 
