@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 show_downloads: false
 logo: photo2.jpeg
 
@@ -8,3 +8,6 @@ description: Me enjoying life in Mugardos, Galicia.
 github:
   is_user_page: false
   is_project_page: false
+
+plugins:
+  - jekyll-include-cache
