@@ -1,6 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "air"
+
 show_downloads: false
 logo: photo2.jpeg
+
 
 title: Mads R. Bisgaard
 description: Me enjoying life in Mugardos, Galicia.
