@@ -74,9 +74,6 @@ author:
   location         : "Zürich, Switzerland"
   email            : "madsbisgaard88@hotmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:madsbisgaard88@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mads-bisgaard.github.io/"
@@ -96,7 +93,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
   - scope:
       path: ""
@@ -106,7 +103,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
 
 
