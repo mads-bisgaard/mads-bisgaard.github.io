@@ -3,3 +3,5 @@ main:
     url: /research
   - title: "Software"
     url: /software
+  - title: "About"
+    url: /about
