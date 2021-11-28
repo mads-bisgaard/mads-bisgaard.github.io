@@ -1,5 +1,5 @@
 main:
   - title: "Research"
-    url: /research/
+    url: /research.md
   - title: "Software"
-    url: /software/
+    url: /software.md
