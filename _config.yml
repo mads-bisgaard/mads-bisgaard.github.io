@@ -4,7 +4,7 @@ minimal_mistakes_skin: "air"
 
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en"
 title                    : "Mads R. Bisgaard's site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -46,7 +46,6 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
 search                   : false
 search_full_content      : # true, false (default)
