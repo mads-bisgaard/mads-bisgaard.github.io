@@ -94,6 +94,19 @@ author:
       # url: "https://instagram.com/"
 
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
 
 plugins:
   - jekyll-paginate
