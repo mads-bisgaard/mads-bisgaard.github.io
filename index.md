@@ -1,3 +1,4 @@
+
 # Welcome
 
 Since September 2019 I'm an optimization software developer at [Embotech AG](https://www.embotech.com/). That means I spend a lot of time developing software for doing embedded optimization. Before that I did my PhD in mathematics at the ETH Zürich. 
