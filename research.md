@@ -1,5 +1,3 @@
-## Research
-
 I don't currently work in research but from time to time I get interested in a project and write a paper about it. Those papers will appear below.
 
 ### Numerical Optimization, Control and Statistics
