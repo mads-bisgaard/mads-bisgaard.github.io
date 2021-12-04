@@ -2,6 +2,6 @@ main:
   - title: "Research"
     url: /research/
   - title: "Software"
-    url: /_pages/software
+    url: /software/
   - title: "About"
-    url: /_pages/about
+    url: /about/
