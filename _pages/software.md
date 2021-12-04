@@ -1,5 +1,6 @@
 ---
 title: Software
+permalink: /software/
 ---
 
 Here are a few old hobby projects I have worked on:

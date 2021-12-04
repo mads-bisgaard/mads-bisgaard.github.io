@@ -1,5 +1,6 @@
 ---
 title: About
+permalink: /about/
 ---
 
 Since September 2019 I work on embedded optimization for real-time control systems at [Embotech AG](https://www.embotech.com/). That means I spend a lot of time developing high performance numerical optimization software. Before that I did my PhD in mathematics at the ETH Zürich. 
