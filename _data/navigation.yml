@@ -1,7 +1,7 @@
 main:
   - title: "Research"
-    url: /_data/research
+    url: /_pages/research
   - title: "Software"
-    url: /_data/software
+    url: /_pages/software
   - title: "About"
-    url: /_data/about
+    url: /_pages/about
